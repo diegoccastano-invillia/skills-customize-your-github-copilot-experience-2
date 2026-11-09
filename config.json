@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-data-pipeline",
+      "title": "Automated Data Pipeline with Python",
+      "description": "Automate fetching, validating, transforming, and summarizing public API data in CSV",
+      "path": "assignments/automated-data-pipeline",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
